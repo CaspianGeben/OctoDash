@@ -12,7 +12,7 @@ $OctoPrintDash-theme: mat-dark-theme($OctoPrintDash-primary, $OctoPrintDash-acce
 
 *:not(path):not(svg) {
     font-family: 'Montserrat', sans-serif;
-    color: #f5f6fa;
+    color: #edeef0;
     font-size: 4.3vw;
     margin: 0;
     padding: 0;
@@ -42,7 +42,7 @@ body {
 
 app-root {
     display: block;
-    background-color: #353b48;
+    background-color: #f1f100;
     padding: 0.9vh 0.9vw;
     overflow: hidden;
 }
@@ -106,7 +106,7 @@ app-root {
         right: 7vw;
         bottom: 7vh;
         top: 7vh;
-        background-color: #353b48;
+        background-color: #f1f100;
         padding: 3.5vh 2vw;
     }
 
